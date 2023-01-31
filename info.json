@@ -1,0 +1,9 @@
+{
+  "name": "rcct",
+  "version": "1.0.0",
+  "title": "Remote Constant Combinator Toggle",
+  "author": "EvilPLa",
+  "homepage": "https://github.com/pla/rcct",
+  "description": "With this mod you can toggle constant combinators from any distance. Just point your mouse at the combinator and press F to toggle. Use control settings to change the key.",
+  "factorio_version": "1.1"
+}
