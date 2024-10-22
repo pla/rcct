@@ -1,5 +1,6 @@
-# Remote Constant Combinator Toggle
-With this mod you can toggle constant combinators from any distance. Just point your mouse at the combinator and press F to toggle. Use control settings to change the key.
+# Remote Constant Combinator (and Power Switch) Toggle
+
+With this mod you can toggle Constant Combinator and Power Switch from any distance. Just point your mouse at the combinator and press F to toggle. Use control settings to change the key.
 
 With floating text
 

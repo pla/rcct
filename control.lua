@@ -16,6 +16,15 @@ script.on_event("toggle-constant-combinator-hotkey", function(event)
         text = { "rcct.on" }
       end
       player.create_local_flying_text({ text = text, position = entity.position })
+    elseif entity ~= nil and entity.valid and (entity.name == "power-switch") then
+      if entity.power_switch_state then
+        entity.power_switch_state = false
+        text = { "rcct.off" }
+      else
+        entity.power_switch_state = true
+        text = { "rcct.on" }
+      end
+      player.create_local_flying_text({ text = text, position = entity.position })
     end
   end
 end)
